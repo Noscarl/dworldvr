@@ -1,2 +1,1 @@
-Build-6-WebGL.data.br filter=lfs diff=lfs merge=lfs -text
 Build-7-WebGL.data filter=lfs diff=lfs merge=lfs -text
