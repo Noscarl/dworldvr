@@ -58,7 +58,7 @@
       var buildUrl = "Build";
       var loaderUrl = buildUrl + "/Build-7-WebGL.loader.js";
       var config = {
-        dataUrl: "https://media.githubusercontent.com/media/noscarl/dworldvr/master" + buildUrl + "/Build-7-WebGL.data",
+        dataUrl: buildUrl + "/Build-7-WebGL.data",
         frameworkUrl: buildUrl + "/Build-7-WebGL.framework.js",
         codeUrl: buildUrl + "/Build-7-WebGL.wasm",
         streamingAssetsUrl: "StreamingAssets",
